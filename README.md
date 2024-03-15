@@ -18,5 +18,3 @@
 
         </div>
 
-
-        ###How Are You
